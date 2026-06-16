@@ -124,7 +124,7 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Harvard_secondary_logo_2020.png/250px-Harvard_secondary_logo_2020.png" width="80px" alt="Harvard Logo"><br><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/250px-Harvard_University_coat_of_arms.svg.png" width="80px" alt="Harvard Logo"><br><br>
       <strong>Harvard</strong><br>
       <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge"><br><br>
       <details>
