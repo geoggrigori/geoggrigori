@@ -117,18 +117,19 @@
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=geoggrigori&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoggrigori&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=geoggrigori&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&column=7" />
-    </p>
 </details>
 
 ---
 
 ### 📬 Contatos
+<div align="center">
+
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/geoggrigori)](https://github.com/geoggrigori) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geoggrigori/)](https://www.linkedin.com/in/geoggrigori/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grigoricontato@gmail.com)](mailto:grigoricontato@gmail.com)
 [![Upwork Badge](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011ebc669fa9c3fbd6)
+
+</div>
 
 ---
 
