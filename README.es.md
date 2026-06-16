@@ -18,6 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=geoggrigori&style=for-the-badge&color=9B59B6&label=Profile+Views" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <a href="./assets/CV-Geovana-Grigorio-ES.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculum-Descargar_PDF-9B59B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar Currículum (PDF)"/></a>
+</p>
+
 ---
 
 ### :space_invader: &nbsp;Sobre Mí
