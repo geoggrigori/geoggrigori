@@ -1,15 +1,15 @@
 <h1 align="center">
-  Oi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Eu sou a <b>Geovana</b>
+  Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> I'm <b>Geovana</b>
 </h1>
 
 <p align="center">
   <a href="https://github.com/geoggrigori">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full-Stack;Clean+Architecture;Dark+Mode+Forever+%F0%9F%8C%99" alt="Cargos" />
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Clean+Architecture;Dark+Mode+Forever+%F0%9F%8C%99" alt="Roles" />
   </a>
 </p>
 
 <p align="center">
-  🇧🇷 <b>Português</b> &nbsp;|&nbsp; <a href="./README.en.md">🇺🇸 English</a> &nbsp;|&nbsp; <a href="./README.es.md">🇪🇸 Español</a>
+  <a href="./README.md">🇧🇷 Português</a> &nbsp;|&nbsp; 🇺🇸 <b>English</b> &nbsp;|&nbsp; <a href="./README.es.md">🇪🇸 Español</a>
 </p>
 
 <p align="center">
@@ -20,17 +20,17 @@
 
 ---
 
-### :space_invader: &nbsp;Sobre Mim
+### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Trabalhando atualmente como Desenvolvedora Full-stack (PJ/Freelancer).\
-&nbsp;&nbsp;&nbsp; :student: &nbsp;Graduanda em Ciência da Computação (Turma de Dez 2026).\
-&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Apaixonada por resolução de problemas, clean architecture e interfaces com modo escuro.\
-&nbsp;&nbsp;&nbsp; :video_game: &nbsp;Nascida em 2004, quando não estou programando, você me encontra jogando Valorant ou criando conteúdo.\
-&nbsp;&nbsp;&nbsp; :earth_americas: &nbsp;Morando em São José dos Campos, SP.
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a Full-Stack Developer (Contractor/Freelancer).\
+&nbsp;&nbsp;&nbsp; :student: &nbsp;Computer Science undergraduate (Class of Dec 2026).\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate about problem-solving, clean architecture and dark mode interfaces.\
+&nbsp;&nbsp;&nbsp; :video_game: &nbsp;Born in 2004 — when I'm not coding, you'll find me playing Valorant or creating content.\
+&nbsp;&nbsp;&nbsp; :earth_americas: &nbsp;Based in São José dos Campos, SP, Brazil.
 
 ---
 
-## 💻 Tecnologias que utilizo
+## 💻 Technologies I use
 <br>
 
 <div align="center">
@@ -42,7 +42,7 @@
 
 ---
 
-## 📈 Contribuições
+## 📈 Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geoggrigori&bg_color=0d1117&color=9b59b6&line=9b59b6&point=ffffff&area=true&hide_border=true"/>
@@ -51,10 +51,10 @@
 ---
 
 <details>
-  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre aprendendo</b></summary>
+  <summary><b>:brain: &nbsp;Other skills, always learning</b></summary>
   <br/>
 
-  **Linguagens & Frameworks**<br>
+  **Languages & Frameworks**<br>
   ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
   ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=nodedotjs&logoColor=white)&nbsp;
   ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
@@ -66,7 +66,7 @@
   ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
   ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
 
-  <br>**Cloud, DevOps & Arquitetura**<br>
+  <br>**Cloud, DevOps & Architecture**<br>
   ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazonwebservices&logoColor=white)&nbsp;
   ![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4.svg?&style=flat&logo=googlecloud&logoColor=white)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
@@ -78,7 +78,7 @@
   ![Onion Architecture](https://img.shields.io/badge/ONION%20ARCHITECTURE-A81C7D.svg?&style=flat&logoColor=white)&nbsp;
   ![BDD](https://img.shields.io/badge/BEHAVIOR%20DD-4479A1.svg?&style=flat&logoColor=white)&nbsp;
 
-  <br>**Bancos de Dados & Cripto**<br>
+  <br>**Databases & Crypto**<br>
   ![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;Estatísticas do GitHub</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=geoggrigori&hide_border=true&theme=nightowl" />
@@ -111,14 +111,14 @@
 
 ---
 
-### 📬 Contatos
+### 📬 Contact
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/geoggrigori)](https://github.com/geoggrigori) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geoggrigori/)](https://www.linkedin.com/in/geoggrigori/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grigoricontato@gmail.com)](mailto:grigoricontato@gmail.com)
 
 ---
 
-## 🛡️ Certificações e Badges de Segurança
+## 🛡️ Certifications and Security Badges
 <br>
   
 <table>
@@ -128,17 +128,17 @@
       <strong>Harvard</strong><br>
       <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge"><br><br>
       <details>
-        <summary>Contemplamento</summary>
+        <summary>Covered</summary>
         <ul align="left">
           <li>
             <details>
               <summary>CS50's Introduction to Cybersecurity</summary>
               <ul>
-                <li>Garantindo a segurança das contas</li>
-                <li>Protegendo Dados</li>
-                <li>Garantindo a segurança dos sistemas</li>
-                <li>Protegendo Software</li>
-                <li>Preservando a Privacidade</li>
+                <li>Securing Accounts</li>
+                <li>Securing Data</li>
+                <li>Securing Systems</li>
+                <li>Securing Software</li>
+                <li>Preserving Privacy</li>
               </ul>
             </details>
           </li>
@@ -150,17 +150,17 @@
       <strong>MIT</strong><br>
       <img src="https://img.shields.io/badge/MIT-Introduction_to_Engineering_Concepts-black?style=flat-square&logo=mit&logoColor=white" alt="MIT Badge"><br><br>
       <details>
-        <summary>Contemplamento</summary>
+        <summary>Covered</summary>
         <ul align="left">
           <li>
             <details>
               <summary>Introduction to Engineering Concepts</summary>
               <ul>
-                <li>Experiência em Laboratório de filtração inspirado no estudo do MIT LL (Biotecnologia e Sistemas Humanos).</li>
-                <li>Experiência em Laboratório de etiquetas Bluetooth (Cyber Security).</li>
-                <li>Experiência com o laboratório de xadrez Clausewitzian (Homeland Protection).</li>
-                <li>Compreensão geral da engenharia e suas aplicações.</li>
-                <li>Familiaridade com o processo de engenharia.</li>
+                <li>Filtration Lab experience inspired by the MIT LL study (Biotechnology and Human Systems).</li>
+                <li>Bluetooth tags Lab experience (Cyber Security).</li>
+                <li>Clausewitzian chess Lab experience (Homeland Protection).</li>
+                <li>General understanding of engineering and its applications.</li>
+                <li>Familiarity with the engineering process.</li>
               </ul>
             </details>
           </li>
@@ -173,27 +173,27 @@
       <img src="https://img.shields.io/badge/CISA-210W_02-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 02 Badge"><br>
       <img src="https://img.shields.io/badge/CISA-210W_06-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 06 Badge"><br><br>
       <details>
-        <summary>Contemplamento</summary>
+        <summary>Covered</summary>
         <ul align="left">
           <li>
             <details>
-              <summary>210W-02: TI em sistemas de controle industrial</summary>
+              <summary>210W-02: IT in Industrial Control Systems</summary>
               <ul>
-                <li>Convergência TI/TO.</li>
-                <li>Segurança Cibernética e vulnerabilidades no chão de fábrica.</li>
-                <li>Monitoramento e SCADA.</li>
-                <li>Eficiência Operacional: IoT e dados.</li>
+                <li>IT/OT Convergence.</li>
+                <li>Cybersecurity and vulnerabilities on the shop floor.</li>
+                <li>Monitoring and SCADA.</li>
+                <li>Operational Efficiency: IoT and data.</li>
               </ul>
             </details>
           </li>
           <li>
             <details>
-              <summary>210W-06: Ameaças à segurança (ICS)</summary>
+              <summary>210W-06: Security Threats (ICS)</summary>
               <ul>
-                <li>Atributos da ameaça humana.</li>
-                <li>Curva de risco e tendências.</li>
-                <li>Ameaças internas vs. não intencionais.</li>
-                <li>Ferramentas de ataque.</li>
+                <li>Human threat attributes.</li>
+                <li>Risk curve and trends.</li>
+                <li>Insider vs. unintentional threats.</li>
+                <li>Attack tools.</li>
               </ul>
             </details>
           </li>
