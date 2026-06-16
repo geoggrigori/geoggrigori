@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/geoggrigori/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:grigoricontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.upwork.com/freelancers/~011ebc669fa9c3fbd6"><img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <img src="https://komarev.com/ghpvc/?username=geoggrigori&style=for-the-badge&color=9B59B6&label=Profile+Views" alt="Profile Views"/>
 </p>
 
@@ -119,6 +120,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/geoggrigori)](https://github.com/geoggrigori) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geoggrigori/)](https://www.linkedin.com/in/geoggrigori/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grigoricontato@gmail.com)](mailto:grigoricontato@gmail.com)
+[![Upwork Badge](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011ebc669fa9c3fbd6)
 
 ---
 
