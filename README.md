@@ -53,6 +53,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geoggrigori&bg_color=0d1117&color=9b59b6&line=9b59b6&point=ffffff&area=true&hide_border=true"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geoggrigori/geoggrigori/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geoggrigori/geoggrigori/output/github-snake.svg" />
+    <img alt="Cobrinha comendo meus commits no GitHub" src="https://raw.githubusercontent.com/geoggrigori/geoggrigori/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <details>
@@ -208,6 +216,20 @@
     </td>
   </tr>
 </table>
+
+## 🎓 Cursos &amp; Certificações
+<br>
+
+<p align="center">
+  <a href="https://certificates.cs50.io/165046ba-87da-4e6b-b7a0-89b9c74aae41.pdf?size=letter"><img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x"/></a>
+  <a href="https://certificates.cs50.io/b18f72ff-e88d-4a51-9188-40d327245ab6.pdf?size=letter"><img src="https://img.shields.io/badge/Harvard-CS50P_Python-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50P"/></a>
+  <a href="https://www.dio.me/certificate/9757D3DC/share"><img src="https://img.shields.io/badge/DIO-Desenvolvimento_Moderno-E94E3A?style=for-the-badge&logoColor=white" alt="DIO"/></a>
+  <a href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-GeovanaGrigorio-933673.pdf"><img src="https://img.shields.io/badge/Scrum-Fundamentals-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum Fundamentals"/></a>
+  <a href="https://www.credly.com/badges/a5faf2a4-46c0-4737-9d89-797bc5093d98/public_url"><img src="https://img.shields.io/badge/Certiprof-LGPD-6C2EB9?style=for-the-badge&logoColor=white" alt="LGPD"/></a>
+  <a href="https://www.credly.com/badges/555ac7c3-cf1d-4e97-a05a-9812aa53ab05/public_url"><img src="https://img.shields.io/badge/Certiprof-Lifelong_Learning-6C2EB9?style=for-the-badge&logoColor=white" alt="Lifelong Learning"/></a>
+  <img src="https://img.shields.io/badge/goFLUENT-Espanhol-00A9E0?style=for-the-badge&logoColor=white" alt="goFluent Espanhol"/>
+  <img src="https://img.shields.io/badge/Hashtag-Imers%C3%A3o_Agentes_IA-FF6B00?style=for-the-badge&logoColor=white" alt="Imersão Agentes IA"/>
+</p>
 
 ---
 
