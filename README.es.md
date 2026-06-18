@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/geoggrigori/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:grigoricontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.upwork.com/freelancers/~011ebc669fa9c3fbd6"><img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-  <img src="https://komarev.com/ghpvc/?username=geoggrigori&style=for-the-badge&color=9B59B6&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/geoggrigori.svg?style=for-the-badge&label=Visitas%20al%20perfil&color=9B59B6" alt="Visitas al perfil"/>
 </p>
 
 <p align="center">
