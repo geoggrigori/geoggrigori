@@ -77,34 +77,22 @@
   ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
   ![JSP](https://img.shields.io/badge/JSP-323330.svg?&style=flat&logo=eclipseide&logoColor=white)&nbsp;
   ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
-  ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
 
   <br>**Cloud, DevOps & Arquitectura**<br>
   ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazonwebservices&logoColor=white)&nbsp;
   ![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4.svg?&style=flat&logo=googlecloud&logoColor=white)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
   ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=githubactions&logoColor=white)&nbsp;
-  ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
-  ![Kafka](https://img.shields.io/badge/APACHE%20KAFKA-231F20.svg?&style=flat&logo=apachekafka&logoColor=white)&nbsp;
-  ![gRPC](https://img.shields.io/badge/GRPC-4285F4.svg?&style=flat&logoColor=white)&nbsp;
-  ![Puppet](https://img.shields.io/badge/PUPPET-FFAE1A.svg?&style=flat&logo=puppet&logoColor=black)&nbsp;
-  ![Onion Architecture](https://img.shields.io/badge/ONION%20ARCHITECTURE-A81C7D.svg?&style=flat&logoColor=white)&nbsp;
-  ![BDD](https://img.shields.io/badge/BEHAVIOR%20DD-4479A1.svg?&style=flat&logoColor=white)&nbsp;
 
-  <br>**Bases de Datos & Cripto**<br>
+  <br>**Bases de Datos**<br>
   ![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
   ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
-  ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchaindotcom&logoColor=white)&nbsp;
-  ![Cryptocurrency](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logoColor=black)&nbsp;
-  ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
-  ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
   <br>**Diseño**<br>
   ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
-  ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobeillustrator&logoColor=black)&nbsp;
-  ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobexd&logoColor=black)&nbsp;
+  ![Figma](https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white)&nbsp;
 </details>
 
 <details>
