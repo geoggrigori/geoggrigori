@@ -23,6 +23,10 @@
   <a href="./assets/CV-Geovana-Grigorio-PT.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-Baixar_PDF-9B59B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar Currículo (PDF)"/></a>
 </p>
 
+<p align="center">
+  <a href="https://geoggrigori.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver_Online-6C2EB9?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Portfólio Online"/></a>
+</p>
+
 ---
 
 ### :space_invader: &nbsp;Sobre Mim

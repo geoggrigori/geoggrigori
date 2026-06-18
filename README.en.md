@@ -23,6 +23,10 @@
   <a href="./assets/CV-Geovana-Grigorio-EN.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-9B59B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume (PDF)"/></a>
 </p>
 
+<p align="center">
+  <a href="https://geoggrigori.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_Online-6C2EB9?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio Online"/></a>
+</p>
+
 ---
 
 ### :space_invader: &nbsp;About Me
