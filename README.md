@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://geoggrigori.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver_Online-6C2EB9?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Portfólio Online"/></a>
+  <a href="https://geoggrigori.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver_Online-6C2EB9?style=for-the-badge" alt="Ver Portfólio Online"/></a>
 </p>
 
 ---
