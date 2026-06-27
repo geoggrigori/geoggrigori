@@ -31,7 +31,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a Full-Stack Developer (Contractor/Freelancer).\
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a freelance Software Developer (remote) at Timofi.\
 &nbsp;&nbsp;&nbsp; :student: &nbsp;Computer Science undergraduate (Class of Dec 2026).\
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate about problem-solving, clean architecture and dark mode interfaces.\
 &nbsp;&nbsp;&nbsp; :video_game: &nbsp;Born in 2004 — when I'm not coding, you'll find me playing Valorant or creating content.\

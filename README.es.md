@@ -31,7 +31,7 @@
 
 ### :space_invader: &nbsp;Sobre Mí
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Actualmente trabajando como Desarrolladora Full-Stack (Autónoma/Freelancer).\
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Actualmente trabajando como Desarrolladora de Software freelance (remoto) en Timofi.\
 &nbsp;&nbsp;&nbsp; :student: &nbsp;Estudiante de Ciencias de la Computación (Promoción de Dic. 2026).\
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Apasionada por la resolución de problemas, la clean architecture y las interfaces en modo oscuro.\
 &nbsp;&nbsp;&nbsp; :video_game: &nbsp;Nacida en 2004 — cuando no estoy programando, me encuentras jugando Valorant o creando contenido.\
