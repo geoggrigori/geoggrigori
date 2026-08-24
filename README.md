@@ -103,7 +103,7 @@
   <summary><b>:gear: &nbsp;Estatísticas do GitHub</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://streak-stats.demolab.com/?user=geoggrigori&hide_border=true&theme=nightowl&disable_animations=true" />
+        <img height="137px" src="https://geoggrigori-streak-stats.vercel.app/?user=geoggrigori&hide_border=true&theme=nightowl&disable_animations=true" />
     </p>
     <p align="center">
         <img height="137px" src="https://geoggrigori-github-stats.vercel.app/api?username=geoggrigori&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=nightowl&disable_animations=true" /> 
