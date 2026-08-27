@@ -54,7 +54,7 @@
 ## 📈 Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geoggrigori&bg_color=0d1117&color=9b59b6&line=9b59b6&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://geoggrigori-activity-graph.vercel.app/graph?username=geoggrigori&bg_color=0d1117&color=9b59b6&line=9b59b6&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -106,8 +106,8 @@
         <img height="137px" src="https://geoggrigori-streak-stats.vercel.app/?user=geoggrigori&hide_border=true&theme=nightowl&disable_animations=true" />
     </p>
     <p align="center">
-        <img height="137px" src="https://geoggrigori-github-stats.vercel.app/api?username=geoggrigori&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=nightowl&disable_animations=true" /> 
-        <img height="137px" src="https://geoggrigori-github-stats.vercel.app/api/top-langs/?username=geoggrigori&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl&disable_animations=true" />
+        <img height="137px" src="https://github-stats-extended.vercel.app/api?username=geoggrigori&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=nightowl&disable_animations=true" /> 
+        <img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=geoggrigori&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl&disable_animations=true" />
     </p>
 </details>
 
