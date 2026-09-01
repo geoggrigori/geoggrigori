@@ -135,7 +135,7 @@
       <strong>Harvard</strong><br>
       <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge"><br><br>
       <details>
-        <summary>Contemplamento</summary>
+        <summary>Conteúdo do curso</summary>
         <ul align="left">
           <li>
             <details>
@@ -157,7 +157,7 @@
       <strong>MIT</strong><br>
       <img src="https://img.shields.io/badge/MIT-Introduction_to_Engineering_Concepts-black?style=flat-square&logo=mit&logoColor=white" alt="MIT Badge"><br><br>
       <details>
-        <summary>Contemplamento</summary>
+        <summary>Conteúdo do curso</summary>
         <ul align="left">
           <li>
             <details>
@@ -180,7 +180,7 @@
       <img src="https://img.shields.io/badge/CISA-210W_02-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 02 Badge"><br>
       <img src="https://img.shields.io/badge/CISA-210W_06-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 06 Badge"><br><br>
       <details>
-        <summary>Contemplamento</summary>
+        <summary>Conteúdo do curso</summary>
         <ul align="left">
           <li>
             <details>
