@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="./assets/CV-Geovana-Grigorio-PT.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-Baixar_PDF-9B59B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar Currículo (PDF)"/></a>
+  <a href="./assets/Geovana-Grigorio-CV-PT.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-Baixar_PDF-9B59B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar Currículo (PDF)"/></a>
 </p>
 
 <p align="center">

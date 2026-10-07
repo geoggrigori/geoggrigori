@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="./assets/CV-Geovana-Grigorio-EN.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-9B59B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume (PDF)"/></a>
+  <a href="./assets/Geovana-Grigorio-CV-EN.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-9B59B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume (PDF)"/></a>
 </p>
 
 <p align="center">
