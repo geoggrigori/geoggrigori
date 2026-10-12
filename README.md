@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/geoggrigori/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:grigoricontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.upwork.com/freelancers/~011ebc669fa9c3fbd6"><img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-  <img src="https://komarev.com/ghpvc/?username=geoggrigori&style=for-the-badge&color=9B59B6&label=Visitas+no+perfil" alt="Visitas no perfil"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=geoggrigori.geoggrigori&left_text=Visitas%20no%20perfil&left_color=555555&right_color=9B59B6" alt="Visitas no perfil"/>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 ## 📈 Contribuições
 
 <p align="center">
-  <img src="https://geoggrigori-activity-graph.vercel.app/graph?username=geoggrigori&bg_color=0d1117&color=9b59b6&line=9b59b6&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://geoggrigori-activity-graph.vercel.app/graph?username=geoggrigori&bg_color=000000&color=ffffff&title_color=ffffff&line=9b59b6&point=ffffff&area=true&area_color=9b59b6&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es"/>
 </p>
 
 <p align="center">
